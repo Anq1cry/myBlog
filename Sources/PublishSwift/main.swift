@@ -16,9 +16,9 @@ struct PublishSwift: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://s.popyvanov.ru/")!
-    var name = "Цифровой садик Попыванова Сергея"
-    var description = "Попыванов Сергей. Блог iOS-разработчика из Авито из Самары. Настройка чат-ботов в Telegram, блога на Swit, и продвинутое использование Obsidian. Эргономика, стул-седло, работа на беговой дорожке. Контакты. Резюме"
+    var url = URL(string: "https://bu-techsupport-optiteam.netlify.app/")!
+    var name = "База знаний отдела BU TechSupport"
+    var description = "Здесь будут размещаться инстукции для новых сотрудников и будет собираться wiki"
     var language: Language { .russian }
     var imagePath: Path? { nil }
     var favicon: Favicon? { Favicon(path: Path("/favicon.ico"), type: "image/x-icon") }
