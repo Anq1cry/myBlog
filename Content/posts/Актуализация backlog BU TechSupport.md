@@ -14,18 +14,16 @@
  Колонка "Ответственный сотрудник ОТ" включает в себя сотрудника за которым закреплен данный топик 
  "Номер задачи ОТ" включает в себя номер топика с форума 
  Сотруднику требуется определить к какой категории относится топик по колонке "Описание задачи" и перенести в соответствующий раздел путем нажатия кликабельной кнопки для запуска скрипта. 
-![[Скриншот API Support.png]]
+<image src="https://2.downloader.disk.yandex.ru/preview/912e8b1815a3e0e41a77d07c11c1cd80f26e7bfcba41e86b1f0d68d8548584c9/inf/q0GqNzi25xabBBG34RMYNQNybMHSVRAuseW1S0DOgk2IIC87fsnFMedk8_XwNNcy-ZW3w2oYbYW400cOHpcrLA%3D%3D?uid=587839275&filename=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20API%20Support.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=587839275&tknv=v2&size=1920x919" alt="Актуализаци API Support">
 															Рисунок № 1 
 
 Далее переходим в соответствующий раздел в который мы отправили топик с листа API Support 
 
+	
+
+[Актуализация листа баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/)
 
 
-
-![[Актуализация backlog BU TechSupport лист Баги]]
-![[Актуализация backlog BU TechSupport лист Доработка]]
-![[Актуализация backlog BU TechSupport лист DevOps]]
-![[Актуализация backlog BU TechSupport лист Вопросы]]
 
 Описание цветов топиков в бэклоге 
 
