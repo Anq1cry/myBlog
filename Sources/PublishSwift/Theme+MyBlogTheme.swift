@@ -238,8 +238,8 @@ private struct SiteFooter: Component {
     var body: Component {
         Footer {
             Paragraph {
-                Text("Хранилище инструкций BU TechSupport Optiteam")
-                Link("Swift Publish", url: "https://github.com/johnsundell/publish")
+                Text("Хранилище инструкций BU TechSupport Optiteam ")
+                Link(" BackLog", url: "https://docs.google.com/spreadsheets/d/1kBbwncKW3YxoKflqyP9ZOwkK-rdeJ9VHMgIfKM9k8R0/edit#gid=168779701")
             }
 //            Paragraph {
 //                Link("RSS feed", url: "/feed.rss")
