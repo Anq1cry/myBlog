@@ -30,22 +30,22 @@ private struct MyBlogHTMLFactory<Site: Website>: HTMLFactory {
                     Div {
                         Div {
                             Div {
-                                Image("https://lh3.googleusercontent.com/pw/ADCreHc2x66qSYcgUtAAm7vrOXmMerMqKdszXQvitsd9yhzToqL-xfMYI-Npny-Vh8FSVYieEAwoyohTTwzRjy1Ce-4VWf5c4FihoZHMGZH27AhbRLPZuos=w2400").style("background-color:transparent").class("my-picture")
+                                Image("https://optiteam.ru/wp-content/uploads/2023/03/Logotip-OptiTeam-1.svg").style("background-color:transparent").class("my-picture")
                             }.class("image-cropper")
                         }.class("table-cell")
                             Div {
                                 Div {
-                                    Text("Добро пожаловать! Меня зовут Сергей Попыванов, iOS-разработчик в Авито, немного барабанщик, веду персональную базу знаний, которая мне уже давно сильно жмет. Потренируюсь делиться полезностями. Подробнее обо мне ")
-                                    Link("тут", url: "https://s.popyvanov.ru/posts/about-popyvanov-sergey")
+                                    Text("Добро пожаловать! Данная база знаний реализована для обучения новых сотрудников и хранилище wiki первая инструкция")
+                                    Link("тут", url: "https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport/")
                                     Text(".").addLineBreak().addLineBreak()
-                                    Text("Цифровой сад - это место, где заметки продолжают жить после публикации")
+                                    Text("База знаний - это место, где инструкции продолжают жить после публикации")
                                 }
                             }.class("table-cell-fixed")
                     }
                     .class("table")
                 }
                 Wrapper {
-                    H2("Свежие статьи")
+                    H2("Свежие новости")
                     ItemList(
                         items: context.allItems(
                             sortedBy: \.date,
@@ -238,7 +238,7 @@ private struct SiteFooter: Component {
     var body: Component {
         Footer {
             Paragraph {
-                Text("Сайт собран с помощью ")
+                Text("Хранилище инструкций BU TechSupport Optiteam")
                 Link("Swift Publish", url: "https://github.com/johnsundell/publish")
             }
 //            Paragraph {
