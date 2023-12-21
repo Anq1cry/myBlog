@@ -31,9 +31,10 @@
 		8) Комментарий ОТ - комментарий проставляемый сотрудником ОТ (для себя)
   
 		9) Комментарий ОМ (исполнитель) - комментарий сотрудника ОМа из топика
+
   
-		
 [Рисунок 1.](https://habrastorage.org/webt/_t/2d/vq/_t2dvq93qnjmsftjspcdyswjgrc.png)
+
 ![](https://habrastorage.org/webt/_t/2d/vq/_t2dvq93qnjmsftjspcdyswjgrc.png)
 																						
 
