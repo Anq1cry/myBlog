@@ -1,22 +1,16 @@
-**Инструкция по актуализации BackLog'a листа API Support**
+#Инструкция по актуализации BackLog'a листа API Support
 
-**При актуализации backloga рекомендуется начинать с листа API Support**
+##**При актуализации backloga рекомендуется начинать с листа API Support**
 
-**Обозначение на рисунке № 1**
+###**Обозначение на рисунке № 1**
 
-1) Кнопка запуска скрипта для переноса топика на лист для багов
-   
-2) Кнопка запуска скрипта для переноса топика на лист для доработок
-   
-3) Кнопка запуска скрипта для переноса топика на лист DevOps
-   
-4) Кнопка запуска скрипта для переноса топика на лист Вопросов
-   
-5) Кнопка запуска скрипта для переноса топика на лист Не наши
-    
-6) Колонка в которой прописывается ответственный работник за кем закреплен данный топик
-    
-7) Номер топика и ссылка на переход к странице топика на форум
+1. Кнопка запуска скрипта для переноса топика на лист для багов\
+2. Кнопка запуска скрипта для переноса топика на лист для доработок\
+3. Кнопка запуска скрипта для переноса топика на лист DevOps\
+4. Кнопка запуска скрипта для переноса топика на лист Вопросов\
+5. Кнопка запуска скрипта для переноса топика на лист Не наше\
+6. Колонка в которой прописывается ответственный работник за кем закреплен данный топик\  
+7. Номер топика и ссылка на переход к странице топика на форум\
     
 
  При открытии листа API Support отображаются вновь созданные топики на форуме support.optimacros.com и rucom.optimacros.com
@@ -26,7 +20,7 @@
  Сотруднику требуется определить к какой категории относится топик по колонке "Описание задачи" и перенести в соответствующий раздел путем нажатия кликабельной кнопки для запуска скрипта. 
 
 
-[Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
+[Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png "Переход на скриншот листа Скриншот листа API Support")
 ![Рисунок 1](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 				
 										
@@ -35,13 +29,13 @@
 
 	
 
-[Актуализация листа Баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/)
+[Актуализация листа Баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/ "Переход на Актуализацию на листе Баги")
 
-[Актуализация листа Доработки](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/)
+[Актуализация листа Доработки](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/ "Переход на Актуализацию на листе Доработки")
 
-[Актуализация листа DevOps](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20devops/)
+[Актуализация листа DevOps](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20devops/ "Переход на Актуализацию на листе DevOps")
 
-[Актуализация листа Вопросы](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/)
+[Актуализация листа Вопросы](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/ "Переход на Актуализацию на листе Вопросы")
 
 
 
@@ -49,7 +43,7 @@
 
 Описание цветов топиков в бэклоге:
 
-[Рисунок 2](https://habrastorage.org/webt/vk/im/4q/vkim4qto6zkfe6crbm7pdak_zbe.png)
+[Описание](https://habrastorage.org/webt/vk/im/4q/vkim4qto6zkfe6crbm7pdak_zbe.png "Переход на скриншот описания")
 
 ![](https://habrastorage.org/webt/vk/im/4q/vkim4qto6zkfe6crbm7pdak_zbe.png)
 
