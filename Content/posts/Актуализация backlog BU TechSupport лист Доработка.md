@@ -50,9 +50,13 @@
   
 		13) Последнее сообщение - последнее сообщение в топике с форма
 
+
 [Рисунок 1.](https://habrastorage.org/webt/de/4_/ca/de4_castlck5mr5mmoljd6mxezm.png)
+
 ![](https://habrastorage.org/webt/de/4_/ca/de4_castlck5mr5mmoljd6mxezm.png)
 
+
 [Рисунок 2.](https://habrastorage.org/webt/to/on/95/toon95t4s0-oxrhkqolbn2nlome.png)
+
 ![](https://habrastorage.org/webt/to/on/95/toon95t4s0-oxrhkqolbn2nlome.png)
 
