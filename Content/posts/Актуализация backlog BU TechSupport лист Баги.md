@@ -51,12 +51,7 @@
 		13) Последнее сообщение - последнее сообщение в топике с форма
 
 
-[Скриншот листа баги рисунок 1](https://habrastorage.org/webt/l5/gf/v3/l5gfv30yyuqqgtg9zvgdbugnwu0.png)
-![](https://habrastorage.org/webt/l5/gf/v3/l5gfv30yyuqqgtg9zvgdbugnwu0.png)
 
-
-[Скриншот листа баги рисунок 2](https://habrastorage.org/webt/n7/ke/i3/n7kei3z2cx11xkrdznnioovq2zm.png)
-![](https://habrastorage.org/webt/n7/ke/i3/n7kei3z2cx11xkrdznnioovq2zm.png)
 
 
 
