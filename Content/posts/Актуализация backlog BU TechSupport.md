@@ -43,6 +43,8 @@
 
 
 
+
+
 Описание цветов топиков в бэклоге:
 
 [Рисунок 2](https://habrastorage.org/webt/vk/im/4q/vkim4qto6zkfe6crbm7pdak_zbe.png)
