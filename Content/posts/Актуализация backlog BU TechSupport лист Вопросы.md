@@ -28,5 +28,6 @@
   
 		7) Последнее сообщение - последнее сообщение в топике с форма
 
+
 [Рисунок 1.](https://habrastorage.org/webt/1-/yv/m6/1-yvm6wbsc-somm2wyvzanwuzqc.png)
 ![](https://habrastorage.org/webt/1-/yv/m6/1-yvm6wbsc-somm2wyvzanwuzqc.png)
