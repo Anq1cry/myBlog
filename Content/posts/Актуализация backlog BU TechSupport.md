@@ -22,7 +22,7 @@
 
 
 [Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
-![Рисунок 1](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
+![](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 
     
 										
