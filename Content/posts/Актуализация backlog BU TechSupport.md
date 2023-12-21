@@ -33,7 +33,7 @@
 
 	
 
-[[Актуализация backlog BU TechSupport лист Баги]]
+[Актуализация листа баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/)
 
 Описание цветов топиков в бэклоге 
 
