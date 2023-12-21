@@ -19,25 +19,29 @@
 5. Кнопка запуска скрипта для переноса топика на лист Не наше  
 6. Колонка в которой прописывается ответственный работник за кем закреплен данный топик  
 7. Номер топика и ссылка на переход к странице топика на форум  
-<br>
-<br>
 
-[Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png "Переход на скриншот листа Скриншот листа API Support")
+
+[Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 ![Рисунок 1](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
-				
+
+    
 										
 
 Далее переходим в соответствующий раздел в который мы отправили топик с листа API Support 
 
 	
 
-[Актуализация листа Баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/ "Переход на Актуализацию на листе Баги")
 
-[Актуализация листа Доработки](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/ "Переход на Актуализацию на листе Доработки")
+[Актуализация листа Баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/)
 
-[Актуализация листа DevOps](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20devops/ "Переход на Актуализацию на листе DevOps")
 
-[Актуализация листа Вопросы](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/ "Переход на Актуализацию на листе Вопросы")
+[Актуализация листа Доработки](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/)
+
+
+[Актуализация листа DevOps](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20devops/)
+
+
+[Актуализация листа Вопросы](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/)
 
 
 
