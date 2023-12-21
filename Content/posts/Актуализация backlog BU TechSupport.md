@@ -21,6 +21,7 @@
 7. Номер топика и ссылка на переход к странице топика на форум  
 
 
+
 [Скриншот листа API Support](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 ![](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 
@@ -28,9 +29,6 @@
 										
 
 Далее переходим в соответствующий раздел в который мы отправили топик с листа API Support 
-
-	
-
 
 [Актуализация листа Баги](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B0%D0%B3%D0%B8/)
 
