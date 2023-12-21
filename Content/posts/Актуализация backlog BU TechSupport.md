@@ -17,7 +17,7 @@
 
 
 ![Рисунок 1](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
-[Скриншот](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
+					[Скриншот](https://habrastorage.org/webt/ay/13/3q/ay133qss-himjfhdtpmeh406i0c.png)
 										
 
 Далее переходим в соответствующий раздел в который мы отправили топик с листа API Support 
