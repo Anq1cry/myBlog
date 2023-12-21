@@ -33,3 +33,6 @@
 
 [Рисунок 1.](https://habrastorage.org/webt/1-/yv/m6/1-yvm6wbsc-somm2wyvzanwuzqc.png)
 ![](https://habrastorage.org/webt/1-/yv/m6/1-yvm6wbsc-somm2wyvzanwuzqc.png)
+
+
+[Вернуться на лист актуализации API Support](https://bu-techsupport-optiteam.netlify.app/posts/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20backlog%20bu%20techsupport/)
